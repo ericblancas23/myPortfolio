@@ -60,7 +60,7 @@
 					<li>Vlogging</li>
 				</ul>
 			</header>
-			<img class="poster" src="https://ericblancas.herokuapp.com/static/media/pic.9596fb6a.jpg" alt="img06" />
+			<img class="poster" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAMABADGAAwAAQAAAAAAAA6zAAAAJGZjYzU2ZTk2LTU2YTUtNDE2Yi05Zjc2LThhZDVkOGJkMjAwOA.jpg" alt="img06" />
 		</div>
 		<div class="page" id="page-manuals">
 			<header class="bp-header cf">
