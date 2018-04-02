@@ -42,7 +42,7 @@
 				<span class="bp-header__present">Eric Blancas</span>
 				<h1 class="bp-header__title">Portfolio</h1>
 			</header>
-			<img class="poster" src="https://www.bnmetrics.com/images/bunny-icon.png" alt="img01" />
+			<img class="poster" src="https://udemy-images.udemy.com/course/750x422/861624_864d_2.jpg" alt="img01" />
 		</div>
 		<!-- /page -->
 		<div class="page" id="page-docu">
@@ -50,7 +50,8 @@
 				<h1 class="bp-header__title">About me</h1>
 				
 				<p class="info">
-					Born and raised in San Diego, california. Growing up I always had an admiration for computers and technology, Xanga and myspace had become my stepping stool towards web development. I would spend countless hours trying to make my profile page look colorful just to show off towards my friends and eventually from such a young age, it became one of my most treasured skills. Html/CSS was my first exposure to DOM manipulation of rendering colors, and creation of user interfaces; 
+					Born and raised in San Diego, CA. Growing up I always had an admiration for computers and technology, Xanga and MySpace had become my stepping stone towards web development. 
+					I would spend countless hours trying to make my profile page look colorful just to impress my friends and eventually from such a young age, it became one of my most treasured skills. Html/CSS was my first exposure to DOM manipulation of rendering colors, and creation of user interfaces; 
 					thus began my journey of becoming a web developer.
 				</p>
 				<h2 class="bp-header__title">My Hobbies</h2>
@@ -67,9 +68,9 @@
 				<h1 class="bp-header__title">Projects</h1>
 				
 				<p class="info">
-				  These are some of the applications have been produced with React and MongoDB/Express. 
+				  These are some of the applications I produced with React and MongoDB/Express. 
 				During my time at Lambda School and College I have learned to build full-scalable applications
-				and although I may not be perfect, I always have the time to work on my skills as a front-end 
+				, I always have the time to improve on my skills as a front-end 
 				developer; along with being open to many new experiences.
 					<ul>
 						<li><a href="https://movingimages.herokuapp.com/">Cliphy Project</a></li>
@@ -79,7 +80,6 @@
 					</ul>
 				</p>
 			</header>
-			<img class="poster" src="https://cdn-images-1.medium.com/max/369/1*bRuoHj7wZkwqNFcA7wJqPQ.png" alt="img02" />
 		</div>
 		<div class="page" id="page-software">
 			<header class="bp-header cf">
@@ -151,14 +151,14 @@
 		</div>
 		<div class="page" id="page-training">
 			<header class="bp-header cf">
-				<h1 class="bp-header__title">Future Goals</h1>
+				<h1 class="bp-header__title">Fundamentals</h1>
 				
 				<p class="info">
-					My future goals are to keep expanding my horizons and paths on technology and
+					I will always keep expanding my horizons and paths on technology and
 					computer science. <br />
 					As the tech field grows, and many new innovations are being created, my willingness 
-				to learn and broaden my skills as a developer grows as the year grows on. My goal is simple 
-				and that is to exchange, discover and apply new innovative ideas that come into place.
+				to learn and broaden my skills as a developer grows as the year grows on. My fundamental is simple 
+				and that is to exchange, discover and apply new innovative ideas that come into play.
 				</p>
 			</header>
 		</div>
