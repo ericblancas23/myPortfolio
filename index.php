@@ -42,7 +42,6 @@
 				<span class="bp-header__present">Eric Blancas</span>
 				<h1 class="bp-header__title">Portfolio</h1>
 			</header>
-			<img class="poster" src="https://udemy-images.udemy.com/course/750x422/861624_864d_2.jpg" alt="img01" />
 		</div>
 		<!-- /page -->
 		<div class="page" id="page-docu">
