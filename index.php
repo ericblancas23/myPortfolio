@@ -76,7 +76,8 @@
 						<li><a href="https://movingimages.herokuapp.com/">Cliphy Project</a></li>
 						<li><a href="https://lambdashowcase.herokuapp.com/">Lambda Showcase</a></li>
 						<li><a href="https://airbnbproject.herokuapp.com/">AirBnb</a></li>
-						<li><a href="https://github.com/ericblancas23/taxi-app">Taxi App</a></li>
+						<li><a href="https://github.com/ericblancas23/taxi-app">Carpool App</a></li>
+						<li><a href="https://merry-weather.herokuapp.com/">Weather App</a></li>
 					</ul>
 				</p>
 			</header>
